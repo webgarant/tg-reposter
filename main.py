@@ -2,9 +2,9 @@ from telethon import TelegramClient, events
 import os
 
 # Получение данных из переменных окружения
-api_id = int(os.getenv("API_ID"))
-api_hash = os.getenv("API_HASH")
-bot_token = os.getenv("BOT_TOKEN")
+api_id = int(os.getenv("28168077"))
+api_hash = os.getenv("b4df4af07eaeac6f6b701576ee7f6080")
+bot_token = os.getenv("8005533864:AAFae1g5-ZU181etCHLg3rUZx9o47Ht62uc")
 
 # Настройки канала
 channel_id = -1002251445069
